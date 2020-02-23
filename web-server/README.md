@@ -39,7 +39,7 @@ By default, Apache comes with a basic site, but We can modify its content in **/
 
 - Lets have an HTML file in that directory just created
         
-        $ cd /var/www/gci/
+        $ cd /var/www/mysite/
         $ nano index.html
 
 - Past the following code in
