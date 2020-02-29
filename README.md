@@ -8,7 +8,7 @@
 
 
 
-**Change to z-shell (zsh) and install Oh-My-Zsh**
+#### Change to z-shell (zsh) and install Oh-My-Zsh
 
 - Update the packages
 
